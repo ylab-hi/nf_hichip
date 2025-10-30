@@ -1,0 +1,7 @@
+sample_id,fastq_1,fastq_2,condition
+siNC_rep1,/home/jfp0082/ylab/jfp0082/projects/igf1r_atac/data/ctcf_hichip/fastq/19161FL-239-01-01_S47_L005_R1_001.fastq.gz,/home/jfp0082/ylab/jfp0082/projects/igf1r_atac/data/ctcf_hichip/fastq/19161FL-239-01-01_S47_L005_R2_001.fastq.gz,siNC
+siNC_rep2,/home/jfp0082/ylab/jfp0082/projects/igf1r_atac/data/ctcf_hichip/fastq/19161FL-239-04-01_S50_L005_R1_001.fastq.gz,/home/jfp0082/ylab/jfp0082/projects/igf1r_atac/data/ctcf_hichip/fastq/19161FL-239-04-01_S50_L005_R2_001.fastq.gz,siNC
+si25_rep1,/home/jfp0082/ylab/jfp0082/projects/igf1r_atac/data/ctcf_hichip/fastq/19161FL-239-02-01_S48_L005_R1_001.fastq.gz,/home/jfp0082/ylab/jfp0082/projects/igf1r_atac/data/ctcf_hichip/fastq/19161FL-239-02-01_S48_L005_R2_001.fastq.gz,si25
+si25_rep2,/home/jfp0082/ylab/jfp0082/projects/igf1r_atac/data/ctcf_hichip/fastq/19161FL-239-05-01_S51_L005_R1_001.fastq.gz,/home/jfp0082/ylab/jfp0082/projects/igf1r_atac/data/ctcf_hichip/fastq/19161FL-239-05-01_S51_L005_R2_001.fastq.gz,si25
+si33_rep1,/home/jfp0082/ylab/jfp0082/projects/igf1r_atac/data/ctcf_hichip/fastq/19161FL-239-03-01_S49_L005_R1_001.fastq.gz,/home/jfp0082/ylab/jfp0082/projects/igf1r_atac/data/ctcf_hichip/fastq/19161FL-239-03-01_S49_L005_R2_001.fastq.gz,si33
+si33_rep2,/home/jfp0082/ylab/jfp0082/projects/igf1r_atac/data/ctcf_hichip/fastq/19161FL-239-06-01_S52_L005_R1_001.fastq.gz,/home/jfp0082/ylab/jfp0082/projects/igf1r_atac/data/ctcf_hichip/fastq/19161FL-239-06-01_S52_L005_R2_001.fastq.gz,si33
